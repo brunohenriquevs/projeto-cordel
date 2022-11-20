@@ -56,7 +56,6 @@ main section{
     align-items: flex-start;
     width: 100%;
     font-family: var(--fonte-texto);
-    line-height: 6em;
 }
 
 main p{
